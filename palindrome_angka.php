@@ -61,7 +61,7 @@ function palindrome_angka($angka) {
     return $angka;
 }
 
-// TEST CASES
+///TEST CASES
 
 echo palindrome_angka(8); // 9
 echo "<br>" .palindrome_angka(10); // 11

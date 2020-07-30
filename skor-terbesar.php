@@ -57,7 +57,9 @@ $skor = [
   ],
 ];
 echo "<pre>";
+
 print_r(skor_terbesar($skor));
+
 echo "<pre>";
 /* OUTPUT
   Array (

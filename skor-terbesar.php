@@ -56,8 +56,9 @@ $skor = [
     "nilai" => 77
   ],
 ];
-
+echo "<pre>";
 print_r(skor_terbesar($skor));
+echo "<pre>";
 /* OUTPUT
   Array (
     [Laravel] => Array
